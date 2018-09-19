@@ -1,0 +1,98 @@
+body, header, footer, nav, section, div, p, ul, li, ol, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+}
+img {
+  border: none;
+  width: 100%;
+}
+li {
+  list-style: none;
+}
+a,
+a:hover,
+a:visited {
+  text-decoration: none;
+}
+
+.mt05 {
+  margin-top: 0.5rem;
+}
+.mt1 {
+  margin-top: 1rem;
+}
+.mt15 {
+  margin-top: 1.5rem;
+}
+.mt20 {
+  margin-top: 2rem;
+}
+.mt25 {
+  margin-top: 2.5rem;
+}
+.mt30 {
+  margin-top: 3rem;
+}
+
+.ml05 {
+  margin-left: 0.5rem;
+}
+.ml1 {
+  margin-left: 1rem;
+}
+.ml15 {
+  margin-left: 1.5rem;
+}
+.ml20 {
+  margin-left: 2rem;
+}
+.ml25 {
+  margin-left: 2.5rem;
+}
+.ml30 {
+  margin-left: 3rem;
+}
+.font05 {
+  font-size: 0.5rem;
+}
+.font1 {
+  font-size: 1rem;
+}
+.font15 {
+  font-size: 1.5rem;
+}
+.font2 {
+  font-size: 2rem;
+}
+.article-main {
+  padding-bottom: 3rem;
+}
+.article-main .article-list li {
+  margin-bottom: 2rem;
+}
+.article-main .article-list .article .img img {
+  height: 15rem;
+}
+.article-main .article-list .article .info {
+  padding-top: 1rem;
+}
+.aside-recommend ul li{
+ height: 28px;
+ line-height: 28px;
+ overflow: hidden;
+}
+.main-footer {
+  background: #000000;
+  color: #ffffff;
+  padding: 2rem 0;
+}
+.main-footer .footer-nav ul li {
+  display: inline-block;
+  padding: 0 1rem;
+}
+
+.main-footer .footer-nav,
+.main-footer .contact,
+.main-footer .copyright {
+  margin-bottom: 2rem;
+}
